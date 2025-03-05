@@ -3,7 +3,7 @@
 ## 📌 Sobre o Projeto
 Este projeto demonstra como manipular o **DOM** com **JavaScript**, permitindo que o usuário **ligue e desligue** uma lâmpada ao clicar em botões. A interface foi construída utilizando **Bootstrap 5** para um design responsivo e moderno.
 
-🔗 **Demonstração Online:** _(adicione aqui o link do GitHub Pages se for publicar)_
+🔗 **Demonstração Online:** https://guilherme-salomao.github.io/lampada/
 
 ## 🎯 Funcionalidades
 ✅ Alternar entre lâmpada ligada e desligada ao clicar nos botões.
